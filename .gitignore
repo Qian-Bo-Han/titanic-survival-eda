@@ -1,0 +1,12 @@
+# Local IDE settings and virtual environments
+.idea/
+.venv/
+
+# Python and Jupyter caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Generated analysis files
+/output/
